@@ -15,6 +15,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  padding: 0;
 }
 
 .user-form {
@@ -22,7 +23,7 @@ body {
   max-width: 700px;
 }
 
-.user-form input {
+.user-form input, .user-not-found{
   width: 100%;
   display: block;
   background-color: #4c2885;

@@ -1,6 +1,6 @@
 Instrucciones de Implementación
 
-Bienvenidas al reto Github Profile, para cumplirlo deberás seguir lo siguiente:
+Bienvenidos al reto Github Profile, para cumplirlo deberás seguir lo siguiente:
 
 Ver el video de explicación de reto.
 
